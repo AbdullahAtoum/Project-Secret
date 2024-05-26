@@ -1,0 +1,3 @@
+pip install --upgrade openpyxl
+
+pip install pandas cryptography openpyxl
